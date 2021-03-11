@@ -27,7 +27,7 @@ export default {
             });
         },
         handleClick(a) {
-            console.log(a, '111111111121');
+            console.log(a, a,'11111111119921');
         }
     },
 };
